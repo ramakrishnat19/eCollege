@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E+1Yn/HxUgBzrU/GIN5NkOEHU4T0DfkRAf0oHBjJtrk=",
+  "Source": "ePortal.API",
+  "BasePath": "_content/ePortal.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
